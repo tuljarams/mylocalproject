@@ -1,0 +1,23 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+# creds files 
+creds/*
+
+# backups files
+*.backup
+*.backup.*
+
+# creds file
+account.json
+gcp-creds.json
+account.*
+account*.*
+gcp-creds*.*
